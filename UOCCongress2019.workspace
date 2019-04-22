@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCCongress2019" Database="" Version="10.0.0">
+  <Project Name="UOCCongress" Path="UOCCongress/UOCCongress.project" Active="Yes"/>
+  <Project Name="UOCOrganization" Path="UOCOrganization/UOCOrganization.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCCongress" ConfigName="Debug"/>
+      <Project Name="UOCOrganization" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCCongress" ConfigName="Release"/>
+      <Project Name="UOCOrganization" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

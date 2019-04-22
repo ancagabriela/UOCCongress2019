@@ -1,0 +1,1 @@
+./Debug/src_organization.c.o ./Debug/src_congress.c.o ./Debug/src_presentation.c.o ./Debug/src_guest.c.o
